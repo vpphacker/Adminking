@@ -10,18 +10,28 @@ Android
 Download Termux From Play Store 
 And follow The Commands 
 $ apt update 
+
 $ apt upgrade 
+
 $ apt install python3 
+
 $ apt install git 
+
 $ git clone https://github.com/vpphacker/Adminking.git
+
 $ cd Adminking
+
 $ python3 adminlink.py
+
 Now this tool will guide you....
 
 Kali Linux
 git clone https://github.com/vpphacker/AdminKing.git
+
 cd AdminKing
+
 ls
+
 python3 adminlink.py
 
 Now this tool will guide you.. 
