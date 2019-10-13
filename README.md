@@ -1,3 +1,4 @@
+# AdminKing
 Find Admin Panel of websites.
 
 ### How to use this Tool
@@ -6,7 +7,6 @@ Add '/'  at the end of the website like http://example.com/ or https://example.c
 
 
 ### How to Install 
-Android 
 Download Termux From Play Store 
 And follow The Commands 
 ```
@@ -27,22 +27,11 @@ $ python3 adminlink.py
 
 Now this tool will guide you....
 
-Kali Linux
-git clone https://github.com/vpphacker/AdminKing.git
-
-cd AdminKing
-
-ls
-
-python3 adminlink.py
-
-Now this tool will guide you.. 
-
-If you want to watch Hacking tutorial then visit my channel 👇👇
+## YouTube Channel 
 https://www.youtube.com/channel/UCIQ5wO7zmPmjnIBm1d_fGKw
 
-And subscribe my channel.. 
 
-My Website :- www.vpphacker.ml
+## My Website
+www.vpphacker.ml
 
 See You Next Time 😀😀
