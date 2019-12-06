@@ -44,8 +44,8 @@ print(''' \033[93m
 +----------------------------------------------+''')
 slowprint('''\033[93m| coded by : VPP Hacker                        |
 | Date : 06/06/2019                            |
-| Contact Me On Instagram                      |
-| Support Us By Subscribing Our Channel        |
+| Telegram : VPP Hacker                        |
+| YouTube : VPP Hacker                         |
 | Version : v1.0                               |
 | This Program Is Made For Penetration Testing |''')
 print('''\033[93m+----------------------------------------------+
